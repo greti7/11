@@ -23,6 +23,7 @@ void DNPI(int n)
          {
              cout << i << " ";
          }
+        }
     }
 }
 
