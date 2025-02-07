@@ -1,0 +1,24 @@
+10
+quicksort  0.490 s
+normal 0.418 s
+
+100
+quicksort 0.418 s
+normal 1.167 s
+
+1000
+quicksort 0.560 s
+normal  0.621 s
+
+10000
+quicksort 0.792 s
+normal 2.974 s
+
+100000
+quicksort  1.267 s
+normal 17.168 s
+
+500000
+quicksort  6.406 s
+normal  117.868 s
+
