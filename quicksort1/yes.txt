@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+// #define int ll
+using pi = array<int, 2>;
+#define pb push_back
+#define endl '\n'
+
+int main() {
+    
+}
